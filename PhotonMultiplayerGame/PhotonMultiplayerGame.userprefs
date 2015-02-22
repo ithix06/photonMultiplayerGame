@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UnitMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UnitMovement.cs" Line="64" Column="4" />
+      <File FileName="Assets\Scripts\NetworkManager.cs" Line="17" Column="2" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs" Line="14" Column="34" />
+      <File FileName="Assets\Scripts\UnitHealth.cs" Line="61" Column="2" />
+      <File FileName="Assets\Scripts\UnitAttack.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
